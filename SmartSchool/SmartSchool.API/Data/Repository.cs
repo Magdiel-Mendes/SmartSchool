@@ -1,6 +1,6 @@
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
-using SmartScool.API.Models;
+using SmartSchool.API.Models;
 
 namespace SmartSchool.API.Data
 {

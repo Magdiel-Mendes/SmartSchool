@@ -1,8 +1,8 @@
-using SmartScool.API.Models;
+using SmartSchool.API.Models;
 
 namespace SmartSchool.API.Data
 {
-    public interface IRepository
+        public interface IRepository
     {
          void Add<T>(T entity) where T : class;
          void Update<T>(T entity) where T : class;
