@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\SmartSchool\\SmartSchool\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj": {}
+    "C:\\ProjetosC#\\SmartSchool\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj": {}
   },
   "projects": {
-    "F:\\SmartSchool\\SmartSchool\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj": {
+    "C:\\ProjetosC#\\SmartSchool\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\SmartSchool\\SmartSchool\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj",
+        "projectUniqueName": "C:\\ProjetosC#\\SmartSchool\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj",
         "projectName": "SmartSchool.API",
-        "projectPath": "F:\\SmartSchool\\SmartSchool\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "F:\\SmartSchool\\SmartSchool\\SmartSchool\\SmartSchool.API\\obj\\",
+        "projectPath": "C:\\ProjetosC#\\SmartSchool\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj",
+        "packagesPath": "C:\\Users\\Mago\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetosC#\\SmartSchool\\SmartSchool\\SmartSchool.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,7 +48,7 @@
             },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
-              "version": "[3.1.26, )"
+              "version": "[3.1.28, )"
             },
             "Microsoft.AspNetCore.Mvc.Versioning": {
               "target": "Package",
@@ -58,17 +62,17 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.26, )"
+              "version": "[3.1.28, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[3.1.26, )"
+              "version": "[3.1.28, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.26, )"
+              "version": "[3.1.28, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -93,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.421\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
         }
       }
     }

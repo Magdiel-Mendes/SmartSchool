@@ -14,7 +14,7 @@ namespace SmartSchool.API.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "3.1.26");
+                .HasAnnotation("ProductVersion", "3.1.420");
 
             modelBuilder.Entity("SmartSchool.API.Models.Aluno", b =>
                 {

@@ -1,5 +1,5 @@
 using AutoMapper;
-using SmartSchool.API.v1.Dtos;
+using SmartSchool.API.v2.Dtos;
 using SmartSchool.API.Models;
 using SmartSchool.API.Helpers;
 
